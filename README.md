@@ -138,7 +138,6 @@ Vehicles depreciate steeply in the first 5 years, then flatten. The steepest dro
 
 **Mohd Aaseen**  
 B.Tech Automotive Engineering — Delhi Technological University  
-Data Analyst Intern @ Spinny  
 📧 mohdaaseen_ch22b3_45@dtu.ac.in  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
 
